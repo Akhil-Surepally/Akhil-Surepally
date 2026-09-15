@@ -113,7 +113,7 @@ A production-style infrastructure audit and remediation project covering:
 - Cloud cost optimization
 - Infrastructure automation
 
-➡️ **[View Project](https://github.com/)**
+➡️ **[View Project](https://github.com/Akhil-Surepally/aws-cloudops-healthcheck)**
 
 ---
 
